@@ -1,0 +1,38 @@
+.navcontainer{
+    background-color: black;  
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.navlogo p{
+    background-color: ;
+    color: whitesmoke;
+    font-size: large;
+}
+.navlogo p > span{
+    color: #E55473;
+    font-size: large;
+}
+.navimg{
+    width: 150px;
+}
+
+.dropdown{
+    display: flex; 
+    padding: 20px;
+    list-style: none;
+    
+}
+
+.dropdown li a:hover{
+    color: rgb(196, 182, 182);
+}
+
+.dropdown a{
+    text-decoration: none;
+    color: aliceblue;
+    padding: 20px;
+    text-align: center;
+    font-size: x-large;
+}
