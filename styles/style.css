@@ -126,9 +126,11 @@ body{
 }
 .serviceimg{
     padding-left: 80px;
+    width: 20%;
 }
 .servicesupport{
     padding-left: 30px;
+    width: 20%;
    
 }
 
